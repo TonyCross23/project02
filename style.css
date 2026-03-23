@@ -65,19 +65,19 @@ ul li a {
 
 .left-content {
     padding-left: 30px;
-    padding-top: 300px;
+    padding-top: 180px;
 }
 
 .left-content h2 {
-    font-size: 34px;
+    font-size: 84px;
     letter-spacing: 1px;
-    line-height: 40px;
+    line-height: 100px;
     margin-bottom: 10px;
 }
 
 .left-content p {
-    line-height: 30px;
-    font-size: 20px;
+    line-height: 40px;
+    font-size: 30px;
     font-weight: 300;
     margin-bottom: 10px;
 }
